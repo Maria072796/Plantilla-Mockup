@@ -1,8 +1,7 @@
-# Nombre de la aplicación
+# My Oge - Memoria segura
 
-Reemplace este texto con una descripción de su aplicación.
-
-Author: Nombre del estudiante
+Aplicación que permita a personas con inicios de demencia senil y a su red de apoyo tener control, monitoreo de sus actividades diarias, y generar actividades terapeuticas que aminoren el rasgo de olvidar.  ejercicios y alertas de actividades diarias
+Author: María Fernanda Pérez García
 
 ## Referencias
 
