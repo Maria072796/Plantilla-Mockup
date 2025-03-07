@@ -1,21 +1,13 @@
 # Ideas de proyecto
 
-## Idea 1
+## Idea 1  My Oge o Memoria segura.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Aplicaciones similares:
-
-- ...
-- ...
-- ...
-
-## Idea 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Aplicación que permita a personas con inicios de demencia senil y a su red de apoyo tener control, monitoreo de sus actividades diarias, y generar actividades terapeuticas que aminoren el rasgo de olvidar.  ejercicios y alertas de actividades diarias.
 
 Aplicaciones similares:
 
-- ...
-- ...
-- ...
+- Imentia
+- RAZ Care
+- 
+
+
